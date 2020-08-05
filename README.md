@@ -1,2 +1,2 @@
-# design_files
+# design files
 Repository for design files
